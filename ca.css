@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+  background-image: url(a.jpg);
+ background-color: rgb(118, 101, 134);
+ background-size: 100%;
+ }
+ 
+ button{
+    width:85px;
+    height:85px ;
+    background-color:rgb(190, 20, 20) ;
+    border-radius: 16px;
+ 
+ }
